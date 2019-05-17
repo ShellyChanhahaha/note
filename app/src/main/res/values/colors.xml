@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="palevioletRed">#DB7093</color>
+    <color name="thistle">#D8BFD8</color>
+    <color name="lightpink">#FFB6C1</color>
+    <color name="MistyRose">#FFE4E1</color>
+    <color name="LightGreen">#90EE90</color>
+    <color name="Honeydew">#F0FFF0</color>
+    <color name="LightBLue">#ADD8E6</color>
+    <color name="AliceBlue">#F0F8FF</color>
+    <color name="Gold">#FFD700</color>
+    <color name="LemonChiffon">#FFFACD</color>
+
+    <color name="black">#000000</color>
+    <color name="red">#D81B60</color>
+    <color name="white">#ffffff</color>
+    <color name="grey">#f1f0f6</color>
+    <color name="grey1">#9b9b9b</color>
+    <color name="NavajoWhite">#FFDEAD</color>
+
+    <color name="plum">#DDA0DD</color>
+    <color name="darkMagenta">#8B008B</color>
+    <color name="slateblue">#6A5ACD</color>
+</resources>

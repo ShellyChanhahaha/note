@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:textColor="@color/black"
+    android:background="@color/white">
+    <!--  This is our one standard application action (creating a new note). -->
+    <item android:id="@+id/menu_add"
+          android:icon="@drawable/ic_menu_compose"
+          android:title="@string/menu_add"
+          android:alphabeticShortcut='a'
+          app:showAsAction="always" />
+    <!--  If there is currently data in the clipboard, this adds a PASTE menu item to the menu
+          so that the user can paste in the data.. -->
+    <item android:id="@+id/menu_paste"
+          android:icon="@drawable/ic_menu_compose"
+          android:title="@string/menu_paste"
+          android:alphabeticShortcut='p' />
+        <item android:id="@+id/bg_theme"
+              android:title="@string/style">
+            <menu>
+                <group>
+                    <item
+                        android:id="@+id/blue"
+                        android:title="海边的卡夫卡"/>
+                    <item
+                        android:id="@+id/pink"
+                        android:title="@string/theme_pink"/>
+                    <item
+                        android:id="@+id/purple"
+                        android:title="@string/theme_purple"/>
+                    <item
+                        android:id="@+id/yellow"
+                        android:title="@string/theme_yellow"/>
+                    <item
+                        android:id="@+id/green"
+                        android:title="@string/theme_green"/>
+                    <item
+                        android:id="@+id/theme_default"
+                        android:title="@string/theme_default"/>
+            </group>
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,62 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="pinkTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/lightpink</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/Honeydew</item>
+        <!--窗体的背景色-->
+        <item name="android:windowBackground">@color/MistyRose</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="greenTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/LightGreen</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/Honeydew</item>
+        <!--窗体的背景色-->
+        <item name="android:windowBackground">@color/Honeydew</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="purpleTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/darkMagenta</item>
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/plum</item>
+        <!--窗体的背景色-->
+        <item name="android:windowBackground">@color/thistle</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="blueTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/LightBLue</item>
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/AliceBlue</item>
+        <!--窗体的背景色-->
+        <item name="android:windowBackground">@color/AliceBlue</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="redTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/Gold</item>
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/LemonChiffon</item>
+        <!--窗体的背景色-->
+        <item name="android:windowBackground">@color/LemonChiffon</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>
